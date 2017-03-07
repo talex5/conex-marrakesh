@@ -1,0 +1,57 @@
+signed: [
+  ["wraps" 0x0]
+  ["version" 0x0]
+  ["typ" "author"]
+  [
+    "resources"
+    [
+      [
+        ["typ" "key"]
+        ["name" "talex5"]
+        ["index" 0x1]
+        ["digest" ["SHA256" "OVgvTQiN2HoChpgUUe9kWW+2iUlJ9BO3R6ziTkNhikA="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "talex5"]
+        ["index" 0x2]
+        ["digest" ["SHA256" "/so6fbgOzSFkcMepB8Tbn5tyJWLVhilkxWSyWELLMyo="]]
+      ]
+    ]
+  ]
+  ["name" "talex5"]
+  ["created" 0x58BED10E]
+  ["counter" 0x1]
+]
+
+keys: [
+  [
+    [
+      "RSA"
+      """
+-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA5wlsUn0JdRpYCMllA6Du
+b5bvSDopzyUylWJveJGYrhAIO5ny+c5/fAcG2YzPGBPw6cWWU/dNaagoHORNC9hO
+s0fGAVaXHm8xIYzTjlRR85XNU/NmB5EQZz6eYULPJb58e8zx7A69C9f9zi62MLNU
+Yc1fZn3GW1SpwEWImp1KZgNRP9BOC2pBr5J6IBWHB5Nhp3YV5ThoKvnBCXRuEn1i
+mL02EiH7SgGYazVnFab8d73x6IB+SRHInqQ6nbHXAfPksDtnDpleYJZhc+yoPy1H
+ilM1fSkEm772WOEUuRsa/ZBm6SZOFCKFmC6EN30fLyNHB+uDmtd4yPTBy+mTB7dQ
++jFp/m3PHgSsTe3JeqAPV0MqDeYkg4KDTE+NgrvLSLyGK2hmRYMsc+MqEc5sH8Pj
+DT08myiMEPPo/iTDoUMgdMcPX+1/oG9eYuP6058GOvGnerzTsXMhkxGTnRohWI71
+1DGDIP1kvFfffjr78BqwL9zCZyWbHjX/eg7/Q1elyTkO4YIV0OTv67rssQul4YM3
+BFjG7VF8pYU2qj4/dwZ0KZ9njFYq81SxxCGgMQqleLK8gOfe3nbtKPRarbUC4N6l
+dz1J0MxgwXZ+UuuW5mi7TewyFa9raHanNwdB14z64rDYuLsNYEa304ZKnYAq5Asz
+sbIGgrcWRkSuc4m4OoLqJ5kCAwEAAQ==
+-----END PUBLIC KEY-----"""
+      0x58BED10E
+    ]
+    [
+      0x58BED10E
+      "RSA-PSS-SHA256"
+      "r9Fkh1IfLDGb3jKPeJfc96LKNNuZHB0wlMXEoA03n0Uve0E9lUdJq0gINR9+0F+LP/gPzo+UrKwkSsA+xyhAJf+Si19KXkHwpFvGP/B1DdHaU4GBy4EXVDftbv5Y71qUhnHSO2Bj3Q2baUDWtJgPOhtPMEYoq5mYMJd99rzFRhVOa+q5GfhITm35LbWc2aLKZqWSGPi+m45K5yUOV6Oln7GKc/ZZTAia78kUgOj7kDFpUZkzMmexX31jAXEExlGI2I6rcTV4GAXUU1SFYvGEByDkQ2jFwrRIOk7CeCLdoRsGoY15uNHrbwu9qyGZU/YwtYke1dfCHLwskBPuCfg3jqO33qj7KC0KPb9WdvTnNo1vjbPrQMOd6StTPBiEcjcSrrvxAEDaj8uGY9f9qYgiIvYaMJ/lmXb3cxo1uBiOKVz04F4UibcHOPM++s3kgwdq5Y/JEY1q+nAKrw426RLTcd0StXznFsUTYJ7Uu9UG/yuOPFHfthOGhC3SCpYNWnLnsE9ZHblJjUSuUWWUMESQiWY4nWIe2KEuf16pNzg1MULJen5F5GMhZHWJPWACPbjXK0NB610cPoTqIbf8HhcWxIOjtXYTW94DhEyaDJ+gEUO5JLYWzPHqeI0uIch2koNKeQmaXSzEIL4gT4Z7JyvMrcT6VJTjYcvu6ANjd4pDQsE="
+    ]
+  ]
+]
+accounts: [
+  ["github" "talex5"]
+]
