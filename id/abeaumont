@@ -1,0 +1,57 @@
+signed: [
+  ["wraps" 0x0]
+  ["version" 0x0]
+  ["typ" "author"]
+  [
+    "resources"
+    [
+      [
+        ["typ" "key"]
+        ["name" "abeaumont"]
+        ["index" 0x1]
+        ["digest" ["SHA256" "u1zGHqHyxpt1oi82qUfythVWm+Yl3R/N3zXWdyMpC6E="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "abeaumont"]
+        ["index" 0x2]
+        ["digest" ["SHA256" "4oC9HyuyBBGvCqrNyhf5gtW2Wvj3IGh335xik1iQKns="]]
+      ]
+    ]
+  ]
+  ["name" "abeaumont"]
+  ["created" 0x58BECBC9]
+  ["counter" 0x1]
+]
+
+keys: [
+  [
+    [
+      "RSA"
+      """
+-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEApBVjErD2FpzXtsuU0XZS
+rQfXaITlBR8nnNgi3R2JSpqTWsBH8JGwaLizVJJq/WqcnkNzzj+/oEKMnv5XPn/L
+lsQvP7UbGwPn69GJGIEQN3/Hn9WxZDMpspGSGqf2GEDQ/3X9OcUXrqU1mwMtvBxM
+kTKXd+c+qHysrHnJODacK5+PRmWlY8M1/feg2k5VKpIozY+hRKMhqnZcMMCBqO5f
+UDGvpUQ4XXYch/qh6N5EfFYYnTIbq9ivDegW4/kXPpPcNP+3cRJPrLCR11YyIlqj
+dee4/eW0tsXsJaYWwz9O3KFwpcuTKIa/vJwv8lrjmPkjppgoJefOdZfoc2UFzfQ4
+yuoK4Cx+iL2kAXiu9wJ8k/p8tpO7amP+uXqKlfg5YSHyviOQGzkK9dywtWNQG1tk
+mXQEh0Z7y6XVIyzss6jngJsGsNZYQpvvch3DstYTZKDZisISLb/QtKpM/T/z66Ot
+S48VKhiCZ3lp8x9Ic5csOtjilpcipLEtfFSg3SSgWdd1B7SZpIbCRuyzXmUvRKpv
+3oWdiVAMNlc/6r5PRJcda1sDKBFr9wmxSzW/KzxDr1pOZgv8TGCkktIV2SgfYwW+
+lJ0u1YncEd4rBdK1KxOPL6MZl0cJv8YkRrz8BNaHyuniIr0MOEfYP4XABjQcjWgz
+j/Oo9m/nt0B+MX4P4QPuc+sCAwEAAQ==
+-----END PUBLIC KEY-----"""
+      0x58BECBC9
+    ]
+    [
+      0x58BECBC9
+      "RSA-PSS-SHA256"
+      "huv7eHin0XuPQAiu6HIiSjSN3honemHnIxMyYA2aWQz2CcNqfJTN6fJLl75uVyTAcLSeSzkuSSt438tRn6NU2buyymppV1YVWJXJ9uYiginaGIRVdF4cQINeUln7gBce8PsTHp9Z8LYhHPA49WaJV+rzx6MkKdQA2fZi5z538myuqi+J+yJgzbTE4cfjIBd/kHNLR+uFheBa+6uX7eNPlvqbR+hFRXajjFIeVyZ/XwaSZuegySWj10mZp6tfTlcIvd4B6aZ9Jd0EchdU60dNxa/s3JfcNRYn55n3bxRvp4WkCC2Yv4THxW+hmOjsXgxLsLReHcbFgoVsG0hQToNEtU+euN6/0Xw/9TEXkxWqF27XN86+oZtF0q73TpIq5KjveCNk5VqnV930DXjaY2/I4SOL07tqxoWCo+HXs/reJLVOuCYFwajBPgOFgKyENDyOzlmgBN5AQgiC77SSoNy46GDP83NBfAPCd5yo2LwB6qdkZvMmBR4ullukRf8Vx0IB1TBE9S6bAwaBwKrQJPM6k5eOdKaA9EvL91r+AX8ONAcfhNs1MSN9/89zmdDqb5UmKVVF9wc+tZPB40PNaNrXUji1LbViBn1Rcwvr/1+3jWqNJrkdRcHYXA8snbnpE/NtxNgGlXr08DwjraitS81Gt4OziyIglk2pjxC6QuxHOiw="
+    ]
+  ]
+]
+accounts: [
+  ["github" "abeaumont"]
+]
