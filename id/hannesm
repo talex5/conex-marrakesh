@@ -23,11 +23,23 @@ signed: [
         ["index" 0x3]
         ["digest" ["SHA256" "tQ9c8HxrN4z2RUkRlwx0zwj5wHN4z1F5LJL/4Bxz3l4="]]
       ]
+      [
+        ["typ" "key"]
+        ["name" "abeaumont"]
+        ["index" 0x4]
+        ["digest" ["SHA256" "u1zGHqHyxpt1oi82qUfythVWm+Yl3R/N3zXWdyMpC6E="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "abeaumont"]
+        ["index" 0x5]
+        ["digest" ["SHA256" "4oC9HyuyBBGvCqrNyhf5gtW2Wvj3IGh335xik1iQKns="]]
+      ]
     ]
   ]
   ["name" "hannesm"]
   ["created" 0x58BEAFC6]
-  ["counter" 0x2]
+  ["counter" 0x3]
 ]
 
 keys: [
@@ -52,9 +64,9 @@ a5pDdOZfrxf7zCzkw/D6olp++9bWV6CZbkEF9iPnipUjcnvjgFT0tJ9DaW5x44Pe
       0x58A3419F
     ]
     [
-      0x58BEC87A
+      0x58BECE72
       "RSA-PSS-SHA256"
-      "CzuCMQRcBS6qRqxjxnj7FaRFc4g1YMsTXAHkP1dxcvniJia17Tyk638WX90X2kLP70cm945EDIEom4yJbThZE9P20QF1PASOpEUg/g/0hwz+B5XObOg7bdVjtnCm154jjuPkE4eiXAdkqPFid7fqSC9wGCxWDIeBQa1dsuvsHkoeJHB5ZjAVViDaupnVsysZnezLoqULd7XOxSovaEgYncw+SOZLiTf5XiCqYkLbA5AhbTatQWC2qMER4oqCqUjuEM12tZFFUHNBfBmuSDhWpG5XfWu5d1CDhlgMKvggZRStZGXleVGRSyHwHLhqMS3qo9IHmWYLC9UZOt/zwMoLVaQILZUxUNuW4PWfo1igwkiuwTDmGypBN43x7FuVg73ZMgNN7QBa/zwDw7nPDh6GJRhKuBu3F+rZ+lBrPQCmwDHzq4saoQ0+UjvL9PblCIxQAfmJai5m9HBdSYnWlWAvnJvYqsjDgLf/rHxr4P63XyXdz5sN30A8xajLAGqvAv0RGWh90a4UOpGetR+nWrJuWkgdLxmYgLyQgnqOS4XongjYR2MTuF9+V3MqqvVz0v8i0ww/ciKDQtkoDca8Yq9f2mO1e6u2dAZvv2pBWObTSWhblNY8sL0yAwyF0ApUE74MSgt5+CnQ/IBjadiGXh6s9y/LZ9zaZZcJ85La+WGceAw="
+      "sDbdV+Y9cDaqP5I5UtsuXJZT2mQf47yP8Szh9P57TRaGY/t2GEY9n+n25xQyJXPclaStK+R1FAHjcPSV251EjRWhiBa5aOPoahrHcuQ6L8Llkdn4SyE1WKapC4az3Kd3oQgVxPvM7c3czDzzAAf2gJGW3Dby+1xMtPXav5i8B7uS9gmMc2C1znywszx9WxYND8ZhjuTt2H//AsTVECZAqF7GIre0WLaZqBQ/tRkkeRE9yuAUw2gpdGkRbvlJ0uf5oUA2TcWidEeFxQOGKNnu2pJbMY0rNgR4DmcSfsUwHcoHVKAdkJRnBSEtCAhlVXdF/YrEUA2e5M714z3/JruvdwCx7wDMuVtZFvosLJ2STiUMLueSamuVOlRKAfp/QYvn47haERl7VA281FUaklyJpDCWE9FgBR1YhTN9qNluvAl8tE/tiGwiXba3dfMf97EDTrrlA75eWFMkUklFarwqDNzdtMJ80pMaO2odgIeqCbup5fz3LtWGZJrqCA1Ib4tzI3cQ0j8itJS52y46qL0WEpwY44S72wCUvXkBo/Dn/f86EBwWgyHmhj0g2OTV3L4ns4sXDLRDwmmzZ8KnMM/KjDZDyyLSFyry9mXAeqL1n1IWvNsguASsA9cn7vLNMvQA+RlvUEPiU7fieqXFGOeDmom0dYR4WtkBW7p8cnFaQUA="
     ]
   ]
 ]
