@@ -1,0 +1,63 @@
+signed: [
+  ["wraps" 0x0]
+  ["version" 0x0]
+  ["typ" "author"]
+  [
+    "resources"
+    [
+      [
+        ["typ" "key"]
+        ["name" "hannesm"]
+        ["index" 0x1]
+        ["digest" ["SHA256" "ht9ztjjDwWwD/id6LSVi7nKqVyCHQuQu9ORpr8Zo2aY="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "hannesm"]
+        ["index" 0x2]
+        ["digest" ["SHA256" "W+YG0JnQWMwjgKn1OkYSdlLS6eoKrQ3rApzUorJteDQ="]]
+      ]
+      [
+        ["typ" "team"]
+        ["name" "janitors"]
+        ["index" 0x3]
+        ["digest" ["SHA256" "tQ9c8HxrN4z2RUkRlwx0zwj5wHN4z1F5LJL/4Bxz3l4="]]
+      ]
+    ]
+  ]
+  ["name" "hannesm"]
+  ["created" 0x58BEAFC6]
+  ["counter" 0x2]
+]
+
+keys: [
+  [
+    [
+      "RSA"
+      """
+-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAyUhArwt4XcxLanARyH9S
+k4gOfoEi3tqnT3Ixv7sDV8D89GJP6WjCijVoUyvaZezLhxXsBLtUh9yN3+yZyT/9
+kVdld6Ri/AoYos+fRPE4e6bg1BL7jwbiZjU67yJbeOXl+BVFi1FEXUSFDvqXhlIs
+AYwR358NEQoVGGSNuNa2q8TkHqL9tSbSF3d/kAKZcT2xGN5QeH/TfSBUQlnaltmf
+/W9Q5aPnm5snqIGYeOMFwIPS/vEJ4cFw9m/DLHb4R9b8LiZk54N3LisBGZERauhD
+aIQRd0yXXMZTT9lBGIen9jgvAFn+DdAn7m4sq3rjDPL6JCetJYKwIyLFyyaEPdee
+62H0l44OVnAiFZx5DfN5S4s/Mv11m4s6QK1wMbH4IKWoaVERXwzi54E3TvRO2oMj
+wQFjX47BogiFWOpSc8Ga0fOsnnhsU8J6oRgo43HgLHGEeUSQGf9RBIloBb02Cots
+u0dBYr3MHCm7ToKLId/1yiqMQgOX3RUZTgFz5/01W1TnjEZVpM2kW8OaQoBT7ctt
+a5pDdOZfrxf7zCzkw/D6olp++9bWV6CZbkEF9iPnipUjcnvjgFT0tJ9DaW5x44Pe
+6BE3mDOe1bOLELFx3aSb6xoEz9ydTKKeq5/6fmvuWwQbE607PHHAuttirB7EG44u
+9KQdg6QnLsQh/j74QKLOZacCAwEAAQ==
+-----END PUBLIC KEY-----"""
+      0x58A3419F
+    ]
+    [
+      0x58BEC87A
+      "RSA-PSS-SHA256"
+      "CzuCMQRcBS6qRqxjxnj7FaRFc4g1YMsTXAHkP1dxcvniJia17Tyk638WX90X2kLP70cm945EDIEom4yJbThZE9P20QF1PASOpEUg/g/0hwz+B5XObOg7bdVjtnCm154jjuPkE4eiXAdkqPFid7fqSC9wGCxWDIeBQa1dsuvsHkoeJHB5ZjAVViDaupnVsysZnezLoqULd7XOxSovaEgYncw+SOZLiTf5XiCqYkLbA5AhbTatQWC2qMER4oqCqUjuEM12tZFFUHNBfBmuSDhWpG5XfWu5d1CDhlgMKvggZRStZGXleVGRSyHwHLhqMS3qo9IHmWYLC9UZOt/zwMoLVaQILZUxUNuW4PWfo1igwkiuwTDmGypBN43x7FuVg73ZMgNN7QBa/zwDw7nPDh6GJRhKuBu3F+rZ+lBrPQCmwDHzq4saoQ0+UjvL9PblCIxQAfmJai5m9HBdSYnWlWAvnJvYqsjDgLf/rHxr4P63XyXdz5sN30A8xajLAGqvAv0RGWh90a4UOpGetR+nWrJuWkgdLxmYgLyQgnqOS4XongjYR2MTuF9+V3MqqvVz0v8i0ww/ciKDQtkoDca8Yq9f2mO1e6u2dAZvv2pBWObTSWhblNY8sL0yAwyF0ApUE74MSgt5+CnQ/IBjadiGXh6s9y/LZ9zaZZcJ85La+WGceAw="
+    ]
+  ]
+]
+accounts: [
+  ["github" "hannesm"]
+]
